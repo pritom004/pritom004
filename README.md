@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif)
 <h1 align="center">Hi 👋, I'm Pritom Chowdhury</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="">
